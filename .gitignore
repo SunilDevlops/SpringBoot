@@ -33,4 +33,8 @@ build/
 ### VS Code ###
 .vscode/
 
-/email/HELP.md
+.gitignore
+.mvn
+mvnw
+
+email/src/test/java/com/smtp/email/EmailApplicationTests.java
